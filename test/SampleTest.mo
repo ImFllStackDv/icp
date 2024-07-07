@@ -18,5 +18,5 @@ do {
   Debug.print("  toText");
 
   assert (Nat.toText(0) == "0");
-  assert (Nat.toText(1234) == "1234")
+  assert (Nat.toText(1234) == "123")
 }
